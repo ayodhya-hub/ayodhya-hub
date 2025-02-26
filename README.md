@@ -10,4 +10,13 @@ I'm a passionate PHP Developer with 4 years of experience in building web applic
 - **Testing:** PHPUnit, Postman
 - **Other Skills:** REST API Development, Authentication (JWT, OAuth), CI/CD
 
+## 📂 Featured Projects
+🔹 [order_management](https://github.com/ayodhya-hub/order_management) - Ecommerce application for buying products using laravel
+🔹 [login app](https://github.com/ayodhya-hub/login_app) - Simple login app using laravel  
+
+
+## 📫 Connect With Me
+- 💼 [LinkedIn](https://www.linkedin.com/in/ayodhya-ranathunga-54364a1a5/)
+
+
 ### ✨ Always open to new opportunities and collaborations!
